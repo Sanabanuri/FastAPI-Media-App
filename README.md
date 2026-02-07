@@ -1,6 +1,6 @@
-# 📸 FastAPI Image Sharing App
+# 📸 FastAPI Media App
 
-Welcome to the **FastAPI Image Sharing App**! This is a simple social media application where you can sign up, log in, and share your favorite moments with others.
+Welcome to the **FastAPI Media App**! This is a simple social media application where you can sign up, log in, and share your favorite moments with others.
 
 ## 🚀 What This Project Does
 This project creates a web application that acts like a mini social media platform.
